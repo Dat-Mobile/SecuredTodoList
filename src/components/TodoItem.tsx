@@ -52,7 +52,7 @@ export default function TodoItem({
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#121820',
+    backgroundColor: '#0f2542ff',
     padding: 12,
     borderRadius: 12,
     marginBottom: 8,

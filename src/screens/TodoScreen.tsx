@@ -212,7 +212,7 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: 16,
     paddingBottom: 0,
-    backgroundColor: '#0B0F13',
+    backgroundColor: '#141b22ff',
   },
   title: {
     color: '#E6EEF8',
