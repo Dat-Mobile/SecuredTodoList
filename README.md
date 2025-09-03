@@ -8,7 +8,7 @@ Project features:<br />
 * Native module demo for device os and version
 
 <br />Screenshots<br /><br />
-<img src="screenshot.png" height="600">
+<img src="Screenshot-iphone16pro.png" height="600">
 
 Try out the apk installer at<br />
 https://drive.google.com/file/d/16Iu0QYq9h3ZhL9Hm-Lo-YWe6ozms4LBB/view?usp=drive_link
